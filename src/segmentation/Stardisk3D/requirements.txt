@@ -1,0 +1,18 @@
+tifffile # contains tools to operate tiff-files
+csbdeep  # contains tools for restoration of fluorescence microcopy images (Content-aware Image Restoration, CARE). It uses Keras and Tensorflow.
+#!pip install -e git://github.com/stardist/stardist.git@0.6.2#egg=stardist
+numpy==1.26.0
+stardist==0.9.1
+gputools
+#!pip install edt
+wget
+fpdf2
+pandas
+astropy
+scikit-image
+fpdf
+tqdm
+tensorflow
+#csv
+fpdf
+astropy
